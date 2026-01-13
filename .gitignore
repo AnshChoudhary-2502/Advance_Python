@@ -1,4 +1,6 @@
 nb_env/
 __pycache__/
-log.log/
-data.pkl/
+# Logs
+*.log
+log/
+*.pkl
